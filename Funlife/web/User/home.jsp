@@ -108,7 +108,7 @@
                                     whose. Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
                                 <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle
                                     greater brought sixth fly den dry good tree isn't seed stars were the boring.</p>
-                                <a href="#" class="template-btn mt-3">Kiểm tra ngay</a>
+                                <a  href="#" class="template-btn mt-3">Kiểm tra ngay</a>
                             </div>
                         </div>
                     </div>
